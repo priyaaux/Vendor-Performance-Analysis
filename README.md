@@ -77,6 +77,30 @@
 	- Defect rate vs On-Time performance
 	- Monthly Lead Time trend
 
+📌 Project Folder Structure Vendor-Performance-Analysis
+│
+├── data/
+│   ├── raw/
+│   │   └── Procurement_KPI_Analysis_Dataset.csv
+│   └── processed/
+│       ├── clean_vendor_data.csv
+│       └── vendor_summary.csv
+│
+├── notebooks/
+│   └── data_cleaning_vendor_analysis.ipynb
+│
+├── powerbi/
+│   └── vendor_performance_analysis_dashboard.pbix
+│
+├── dashboards/
+│   ├── dashboard_page_1.png
+│   └── dashboard_page_2.png
+│   |___background.jpg
+|  	└── vendors_logo.jpg
+│
+├── README.md
+├── requirements.txt
+
 
  🧠 Key Insights
 
@@ -114,3 +138,4 @@ Also, you can check the **full dashboard video** I uploaded on my LinkedIn accou
 Aspiring Data Analyst | Power BI | Python | SQL  
 
 📬 Feel free to connect or provide feedback!
+
